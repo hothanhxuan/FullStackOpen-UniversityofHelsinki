@@ -1,1 +1,1 @@
-# FullStackOpen-UniversityofHelsinki
+# Full Stack - University of Helsinki
